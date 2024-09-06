@@ -1,7 +1,7 @@
 # Grasscutter-1-Click-Launcher
 A 1-Click Launcher for Grasscutter, with an easy configuration
 
-**Features*
+**Features**
 
 - No installation requires, simply download, decompress and launch
 - Everything is configured automatically
