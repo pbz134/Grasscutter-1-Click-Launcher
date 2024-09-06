@@ -4,7 +4,7 @@ Original: https://github.com/Grasscutters/Grasscutter
 
 **Features**
 
-- No installation requires, simply download, decompress and launch
+- No installation required, simply download, decompress and launch
 - Everything is configured automatically
 - Save Backup/Restore function
 - Automatic Banner Rotation every 21 days to simulate the original banner scheduling
