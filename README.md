@@ -7,11 +7,13 @@ A 1-Click Launcher for Grasscutter, with an easy configuration
 - Everything is configured automatically
 - Save Backup/Restore function
 - Automatic Banner Rotation every 21 days to simulate the original banner scheduling
-- 
+  
 **Setup Tutorial**
 
 - Install MongoDB and MongoDB Compass
-- Download my 1-Click Launcher and execute Launch.bat
+- Download my 1-Click Launcher
+- Put the game files in /GenshinImpact_4.0.0
+- Execute Launch.bat
 
 **Banner Rotation**
 
