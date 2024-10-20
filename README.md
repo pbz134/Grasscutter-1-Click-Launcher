@@ -6,7 +6,7 @@ Original: https://github.com/Grasscutters/Grasscutter
 
 - No installation required, simply download, decompress and launch
 - Everything is configured automatically
-- Save Backup/Restore function
+- Save Backup/Restore function with 3 save slots (can be expended easily by changing the script)
 - Automatic Banner Rotation every 21 days to simulate the original banner scheduling
   
 **Setup Tutorial**
