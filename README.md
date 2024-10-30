@@ -6,13 +6,13 @@ Original: https://github.com/Grasscutters/Grasscutter
 
 - No installation required, simply download, decompress and launch
 - Everything is configured automatically
-- Save Backup/Restore function with 3 save slots (can be expended easily by changing the script)
+- Save Backup/Restore function with 3 save slots (can be expanded easily by changing the script)
 - Automatic Banner Rotation every 21 days to simulate the original banner scheduling
   
 **Setup Tutorial**
 
-- Install MongoDB and MongoDB Compass
 - Download my 1-Click Launcher
+- Install the included MongoDB and MongoDB Compass setups
 - Put the game files in /GenshinImpact_4.0.0
 - Execute Launch.bat
 
