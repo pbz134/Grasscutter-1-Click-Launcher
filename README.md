@@ -11,7 +11,7 @@ Original: https://github.com/Grasscutters/Grasscutter
   
 **Setup Tutorial**
 
-- Download my 1-Click Launcher
+- Download my 1-Click Launcher from the "Releases" tab on the right side
 - Extract the .7z file with 7-zip or WinRar
 - Install the included MongoDB and MongoDB Compass setups (two .exe files)
 - Download all the "Complete Game Part" files 1 through 6 from here: https://www.reddit.com/r/Genshin_Impact/comments/15qisqg/direct_download_links_for_genshin_impact_40/
