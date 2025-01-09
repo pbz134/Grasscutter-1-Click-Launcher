@@ -3,14 +3,12 @@ A 1-Click Launcher for Grasscutter, with an easy configuration
 Original: https://github.com/Grasscutters/Grasscutter
 
 **Features**
-
 - No installation required, simply download, decompress and launch
 - Everything is configured automatically
 - Save Backup/Restore function with 3 save slots (can be expanded easily by changing the script)
 - Automatic Banner Rotation every 21 days to simulate the original banner scheduling
   
 **Setup Tutorial**
-
 - Download my 1-Click Launcher from the "Releases" tab on the right side
 - Extract the .7z file with 7-zip or WinRar
 - Install the included MongoDB and MongoDB Compass setups (two .exe files)
@@ -26,8 +24,8 @@ Original: https://github.com/Grasscutters/Grasscutter
 If facing any errors, make sure you:
 - Check out the "Tips & Fixes" folder inside the 1-Click Launcher files
 - Open the UI with "Launch.bat", click the Download icon at the top next to the cog icon and click "Download AIO" (This will update the server files in case they are outdated)
-- Make sure all files are placed correctly
-- In case anything went wrong, navigate to the 1-Click Launcher directory, open the "Utils" folder and execute "#FullReset-DeleteAllCopiedFiles"
+- have placed all files correctly
+- navigate to the 1-Click Launcher directory, open the "Utils" folder and execute "#FullReset-DeleteAllCopiedFiles" to reset the configuration
 
 **Banner Rotation (Optional)**
 
